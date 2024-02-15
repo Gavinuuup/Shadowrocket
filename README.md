@@ -1,2 +1,2 @@
 # Shadowrocket  
-GW-SR-withoutJS 除了boxjs外不含其他js插件
+mai_shiranui.conf 根据各大佬配置文件修改
