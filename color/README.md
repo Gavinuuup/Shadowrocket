@@ -1,6 +1,7 @@
 使用方法：  
 red.conf为例  
-点击 red.conf 进入文件，点击 raw 按钮旁边的 <font color="red">**Copy raw file**</font> ,点击后已经完成复制，去Shadowrocket的配置页面添加 URL 并应用，注意 **不是点击 raw ，颜色配置不能以 .conf 文件来应用**
+点击 red.conf 进入文件，点击 raw 按钮旁边的 <font color="red">**Copy raw file**</font> ,点击后已经完成复制，去Shadowrocket的配置页面添加 URL 并应用  
+注意 **不是点击 raw ，颜色配置不能以 .conf 文件来应用**
 
 以下内容来自 [LOWERTOP](https://github.com/LOWERTOP/Shadowrocket-First/tree/main#shadowrocket-%E9%85%8D%E8%89%B2%E6%96%87%E4%BB%B6)  
 
