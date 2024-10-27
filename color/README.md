@@ -1,4 +1,6 @@
-以下内容来自 [LOWERTOP](https://github.com/LOWERTOP/Shadowrocket-First/tree/main#shadowrocket-%E9%85%8D%E8%89%B2%E6%96%87%E4%BB%B6)
+以下内容来自 [LOWERTOP](https://github.com/LOWERTOP/Shadowrocket-First/tree/main#shadowrocket-%E9%85%8D%E8%89%B2%E6%96%87%E4%BB%B6)  
+
+复制配色链接，配置页面添加 URL 并应用
 
 以下是 Shadowrocket 颜色配置的描述翻译：
 
